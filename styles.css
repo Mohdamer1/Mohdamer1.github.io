@@ -17,11 +17,12 @@ h1 {
 /* Change color as needed */
     text-align: center;
     color: #0166b2;
-    padding-top:30px;
+    margin-top:50px;
+    
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: bold;
  /* Change color as needed */
     color: #0166b2;
