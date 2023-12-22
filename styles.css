@@ -8,7 +8,6 @@ body{
 h1, h2, h3, p {
     font-family: 'Rossum', sans-serif;
     display: inline;
-    margin: 0; /* Remove any default margin */
     text-align: center;
     color: #0166b2;
 }
