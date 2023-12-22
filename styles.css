@@ -1,6 +1,9 @@
 /* Replace 'Rossum' with the actual name of the Rossum font */
 @import url('https://fonts.googleapis.com/css2?family=Rossum&display=swap');
 
+body{
+    background-color:"#B2FF5963";
+}
 /* Apply Rossum font to specific elements */
 h1, h2, h3, p {
     font-family: 'Rossum', sans-serif;
@@ -14,7 +17,6 @@ h1, h2, h3, p {
 h1 {
     font-size: 1.8em;
     font-weight: bold;
-/* Change color as needed */
     text-align: center;
     color: #0166b2;
     margin-top:50px;
