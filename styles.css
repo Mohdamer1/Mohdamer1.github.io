@@ -7,7 +7,7 @@ h1, h2, h3, p {
     display: inline;
     margin: 0; /* Remove any default margin */
     text-align: center;
-    color: #FFFFFF;
+    color: #0166b2;
 }
 
 /* Additional styling for each element if needed */
@@ -16,24 +16,24 @@ h1 {
     font-weight: bold;
 /* Change color as needed */
     text-align: center;
-    color: #FFFFFF;
+    color: #0166b2;
 }
 
 h2 {
     font-size: 1.5em;
     font-weight: bold;
  /* Change color as needed */
-    color: #FFFFFF;
+    color: #0166b2;
 }
 
 h3 {
     font-size: 1.2em;
     font-weight: bold;
-    color: ##FFFFFF; /* Change color as needed */
+    color: #0166b2; /* Change color as needed */
 }
 
 p {
     font-size: 1em;
     line-height: 1.4;
-    color: #FFFFFF; /* Change color as needed */
+    color: #0166b2; /* Change color as needed */
 }
