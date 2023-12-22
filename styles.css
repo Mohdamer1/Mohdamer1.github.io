@@ -12,11 +12,12 @@ h1, h2, h3, p {
 
 /* Additional styling for each element if needed */
 h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: bold;
 /* Change color as needed */
     text-align: center;
     color: #0166b2;
+    padding-top:30px;
 }
 
 h2 {
