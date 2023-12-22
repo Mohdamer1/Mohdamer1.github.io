@@ -14,7 +14,7 @@ h1, h2, h3, p {
 
 /* Additional styling for each element if needed */
 h1 {
-    font-size: 24px;
+    font-size: larger;
     font-weight: bold;
     text-align: center;
     color: #0166b2;
